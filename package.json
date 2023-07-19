@@ -1,0 +1,11 @@
+{
+  "name": "restful_shop_app",
+  "version": "1.0.0",
+  "description": "a restful shop nodrjs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leul kashay",
+  "license": "ISC"
+}
